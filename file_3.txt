@@ -1,2 +1,2 @@
 SELECT roll_no, name, marks, grade
-FROM students;
+FROM students; -- ram
