@@ -1,0 +1,2 @@
+SELECT cust_id, customer_name, city, phone
+FROM customers;
